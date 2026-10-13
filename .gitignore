@@ -1,0 +1,19 @@
+# Docker
+.env
+
+# WordPress uploads
+wordpress-files/wp-content/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# MySQL data
+mysql_data/
+
+# VS Code
+.vscode/
+``
